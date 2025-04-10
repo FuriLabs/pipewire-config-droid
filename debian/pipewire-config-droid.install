@@ -1,0 +1,2 @@
+pipewire/pipewire-droid.conf /usr/share/pipewire/
+pipewire.service.d/* /usr/lib/systemd/user/pipewire.service.d/
